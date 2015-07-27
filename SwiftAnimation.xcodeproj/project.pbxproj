@@ -79,12 +79,8 @@
 		503DCA7A1B65E2A600211083 /* SwiftAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				503DCA7D1B65E2A600211083 /* AppDelegate.swift */,
 				503DCA821B65E2A600211083 /* ViewController.swift */,
 				503DCA841B65E2A600211083 /* Main.storyboard */,
-				503DCA871B65E2A600211083 /* Images.xcassets */,
-				503DCA891B65E2A600211083 /* LaunchScreen.xib */,
-				503DCA7F1B65E2A600211083 /* SwiftAnimation.xcdatamodeld */,
 				503DCA7B1B65E2A600211083 /* Supporting Files */,
 			);
 			path = SwiftAnimation;
@@ -93,6 +89,10 @@
 		503DCA7B1B65E2A600211083 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				503DCA871B65E2A600211083 /* Images.xcassets */,
+				503DCA891B65E2A600211083 /* LaunchScreen.xib */,
+				503DCA7F1B65E2A600211083 /* SwiftAnimation.xcdatamodeld */,
+				503DCA7D1B65E2A600211083 /* AppDelegate.swift */,
 				503DCA7C1B65E2A600211083 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -413,6 +413,7 @@
 				503DCA9C1B65E2A600211083 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		503DCA9D1B65E2A600211083 /* Build configuration list for PBXNativeTarget "SwiftAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +422,7 @@
 				503DCA9F1B65E2A600211083 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
