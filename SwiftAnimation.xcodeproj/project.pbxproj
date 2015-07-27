@@ -14,6 +14,7 @@
 		503DCA881B65E2A600211083 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503DCA871B65E2A600211083 /* Images.xcassets */; };
 		503DCA8B1B65E2A600211083 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 503DCA891B65E2A600211083 /* LaunchScreen.xib */; };
 		503DCA971B65E2A600211083 /* SwiftAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503DCA961B65E2A600211083 /* SwiftAnimationTests.swift */; };
+		503DCAA21B65FBA400211083 /* PackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503DCAA11B65FBA400211083 /* PackViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		503DCA901B65E2A600211083 /* SwiftAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		503DCA951B65E2A600211083 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		503DCA961B65E2A600211083 /* SwiftAnimationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftAnimationTests.swift; sourceTree = "<group>"; };
+		503DCAA11B65FBA400211083 /* PackViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PackViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				503DCA821B65E2A600211083 /* ViewController.swift */,
+				503DCAA11B65FBA400211083 /* PackViewController.swift */,
 				503DCA841B65E2A600211083 /* Main.storyboard */,
 				503DCA7B1B65E2A600211083 /* Supporting Files */,
 			);
@@ -217,6 +220,7 @@
 			files = (
 				503DCA831B65E2A600211083 /* ViewController.swift in Sources */,
 				503DCA811B65E2A600211083 /* SwiftAnimation.xcdatamodeld in Sources */,
+				503DCAA21B65FBA400211083 /* PackViewController.swift in Sources */,
 				503DCA7E1B65E2A600211083 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
